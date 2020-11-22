@@ -1,0 +1,12 @@
+[Modified Portal Files]
+/do_not_upload/tools.php (portal tools)
+/upload/install.php (config.php builder)
+/upload/install/vbulletin-language.xml (master language file)
+/upload/install/upgrade_language_en.xml (Language for install/upgrade systems)
+/upload/install/vbulletin-navigation.xml (Navigation Manager)
+/upload/install/vbulletin-settings.xml (default settings)
+/upload/includes/adminfunctions.php [@line 129] (Admin/Mod Panel Signature Bar)
+
+[renamed folders]
+/upload/admincp ==> winxcp (Admin CP)
+/upload/modcp ==> trixmod (Mod CP)
